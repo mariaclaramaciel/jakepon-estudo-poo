@@ -1,0 +1,2 @@
+1. Fiz o comando (npm init -y) para que fosse criado o package.json.
+2. Coloquei um "jogar" no package para poder rodar o arquivo index no node com yarn jogar
